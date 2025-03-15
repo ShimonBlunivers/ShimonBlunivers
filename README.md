@@ -1,8 +1,8 @@
 <div align="center">
     <h1>Hey, I'm Shimon</h1>
     <p>⚙️ I like to make stuff ⚙️</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨</span></p>
-    <img src="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/to_the_stars.gif?raw=true" alt="🚀" width="50" />
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨</span></p>
+    <a><img src="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/to_the_stars.gif?raw=true" alt="🚀" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
     <br />
     <h2>Currently studying at:</h2>
     <a href="https://www.fit.vut.cz/.en"><img src="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/VUT_FIT.png" width=160 /></a>
