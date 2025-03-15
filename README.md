@@ -1,11 +1,12 @@
 <div align="center">
     <h1>Hey, I'm Shimon</h1>
     <p>⚙️ I like to make stuff ⚙️</p>
-    <p>🚀 ✨</p>
+    <p><span style="margin-left: 40px;">✨</span></p>
+    <a target="_blank" href="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/to_the_stars.gif"><img src="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/to_the_stars.svg" alt="🚀" width="42" height="42" /></a>
     <br />
-    <p><b>Currently studying at:</b></p>
+    <p><b>Currently studyin g at:</b></p>
     <a href="https://www.fit.vut.cz/.en"><img src="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/VUT_FIT.png" width=160 /></a>
-    <br />
+    <br /> 
     <h2>Languages and Tools:</h2>
     <p>
         <a target="_blank" href="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/c.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/c.svg" alt="c" width="42" height="42" /></a>
