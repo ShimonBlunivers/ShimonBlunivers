@@ -7,7 +7,7 @@
     <h2>Currently studying at:</h2>
     <a href="https://www.fit.vut.cz/.en"><img src="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/VUT_FIT.png" width=160 /></a>
     <br /> 
-    <h2>Languages and Tools:</h2>
+    <h2>Languages & Tools:</h2>
     <p>
         <a href="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/c.svg">
             <img src="https://raw.githubusercontent.com/ShimonBlunivers/ShimonBlunivers/main/assets/c.svg" alt="C" width="42" height="42" />
